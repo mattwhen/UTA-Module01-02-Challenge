@@ -15,7 +15,7 @@ In this application, we added alternative text to the images located on the webp
 
 ![](./assets/images/webpage-screenshot.png)
 
-<br
+
 
 ## Links
 https://mattwhen.github.io/UTA-Module01-02-Challenge/
