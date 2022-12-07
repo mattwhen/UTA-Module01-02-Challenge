@@ -15,13 +15,14 @@ body {
     color: #ffffff;
 }
 
+/* Title of webpage */ 
 .seo {
     display: inline-block;
     font-size: 48px;
     color: #d9dcd6
 }
 
-
+/* Navigation bar using anchor tags */ 
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -30,10 +31,7 @@ body {
     font-size: 20px;
 }
 
-/* .header nav ul {
-    list-style-type: none;
-} */
-
+/* css styling to anchor tags inside the unordered list */
 .header nav ul li {
     list-style-type: none;
     display: inline-block;
@@ -50,6 +48,7 @@ p {
     font-size: 16px;
 }
 
+/* styling for the background image on the webpage */ 
 .hero {
     height: 800px;
     width: 100%;
@@ -59,6 +58,7 @@ p {
     background-position: center;
 }
 
+/* styling for the images inside the containers, located inside the benefits class in the section element */ 
 .float-left {
     float: left;
     margin-right: 25px;
@@ -69,12 +69,14 @@ p {
     margin-left: 25px;
 }
 
+/* styling for the content section for the div elements */ 
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* styling for the sidebar on the right hand side of the webpage */ 
 .benefits {
     margin-bottom: 32px;
     color: #ffffff;
@@ -113,6 +115,7 @@ p {
     color: #ffffff;
 }
 
+/* styling for the sub content located inside the content section */ 
 .sub-content img {
     max-height: 200px;
 }
